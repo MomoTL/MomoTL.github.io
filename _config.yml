@@ -7,9 +7,9 @@
 
 # Site settings
 title:
-email: 
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  Project blog for translation group MomoTL.
+  Project blog for translation circle MomoTL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://momoTL.github.io" # the base hostname & protocol for your site
 github_username:  momoTL
@@ -17,6 +17,7 @@ twitter_username: _momomelo
 
 # Gems settings
 gems: [jekyll-paginate]
+plugins: [jekyll-twitter-plugin]
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  " "
+hidden: true
+date:   2017-01-01 18:45:09 +0800
+comments: false
+permalink: miscTL
+tags:
+- misc TL
+---
+<img src="/img/misctl.png" alt="Misc. TL" style="height:100%;width:100%;">
+
+Here you will find a list of a bunch of translations that are too small to be deemed a "project".
+
+<hr>
+
+<a href="/2017/08/02/chou-hidamari-sou.html">Hidamari Sketch 2007 Chou Hidamatsuri Special</a>
