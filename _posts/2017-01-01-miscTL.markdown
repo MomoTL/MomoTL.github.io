@@ -8,7 +8,7 @@ permalink: miscTL
 tags:
 - misc TL
 ---
-<img src="/img/misctl.png" alt="Misc. TL" style="height:100%;width:100%;">
+<img src="/img/misctlbanner.png" alt="Misc. TL" style="height:100%;width:100%;">
 
 Here you will find a list of a bunch of translations that are too small to be deemed a "project".
 
