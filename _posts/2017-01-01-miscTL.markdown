@@ -4,7 +4,7 @@ title:  " "
 hidden: true
 date:   2017-01-01 18:45:09 +0800
 comments: false
-permalink: miscTL
+permalink: misc
 tags:
 - misc TL
 ---
