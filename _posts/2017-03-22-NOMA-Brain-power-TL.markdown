@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NOMA's tweets regarding BRAIN POWER"
+title:  "NOMA's tweets regarding the removal of BRAIN POWER from SDVX"
 date:   2017-03-22 18:45:09 +0800
 comments: true
 tags:
@@ -25,11 +25,11 @@ Brain Powerは2017年3月31日をもってKONAMIとの契約期間が終わり�
 
 この選択に至った理由はたくさんありますが、全て私の意思であり、その意思をKONAMI様は尊重して契約解除を決定して下さいました。
 
->I have many reasons for reaching this conclusion but it is all my decision. I am grateful for Konami for respecting that decision.
+>I have many reasons for reaching this conclusion but it is my decision alone. I am grateful for Konami for respecting that decision.
 
 仮に、契約を延長すればSOUND VOLTEXに今まで通り収録され続ける。逆を言うと、KONAMIから許諾を得ないといかなる場合もBrain Powerを使用する事ができない状態なのです。それは作曲者も同様です。
 
->If I extend the contract, the song would continue to be in SOUND VOLTEX. However to argue that, there may be situations where I am unable to get consent from KONAMI to use Brain Power. As the composer of the song, this would be a big problem for me.
+>If I extend the contract, the song would continue to be in SOUND VOLTEX. However to argue that, there may be situations where I am unable to get consent from KONAMI to use legally use Brain Power. As the composer of the song, this is a big problem for me.
 
 現在、Brain Powerは様々なゲームや国内外のDJから使用許諾を求めるメッセージや、オファーが来ています。しかし、KONAMIとの独占契約がある為にオファーは全てお断りしました。
 
@@ -37,7 +37,7 @@ Brain Powerは2017年3月31日をもってKONAMIとの契約期間が終わり�
 
 私は「Brain PowerをSOUND VOLTEXに収録して頂き、たくさんの方々に遊んで頂いたからこそ今の自分がある」と思っています。Brain Powerがキッカケで爆発的に知名度が上がったのも事実ですし、海外の方々の目に留まる事も無かったでしょう。
 
->I earnestly believe that I am now a well known DJ because of the opportunity to compose Brain Power for SOUND VOLTEX and by how much people had fun playing the song. Brain Power exploded in popularity and that did not stop even when it reached a foreign audience.
+>I earnestly believe that I am now a well known DJ because of the opportunity to compose Brain Power for SOUND VOLTEX and by how much people have fun playing the song. Brain Power exploded in popularity and did not stop even when reaching a foreign audience.
 
 そして今でもBrain Powerが大好きでプレイして下さっている方が居るのも重々承知しています。私が契約解除をする事で、そんな方々を裏切ってしまうような気がして正直、後ろめたい気持ち、申し訳ない気持ちを感じざるを得ません。
 
@@ -77,7 +77,7 @@ Brain Powerが削除されても「Brain Powerが採用されてSOUND VOLTEXに�
 
 先日私はKONAMIのオフィスへ行って契約について、そして今後について担当者の方と直々に話し合いました。
 
->A few days ago I went to the KONAMI office to talk directly the the man in charge regarding the contract.
+>A few days ago I went to the KONAMI office to talk directly the man in charge regarding the contract.
 
 詳しい事は話せませんが、担当者様のお話ですと「現在の契約形態は終わらせて、また違ったスタイルの新しい契約を結べばBrain PowerがSOUND VOLTEXに復活する可能性も十分にある」との事ですので、どうか悲観的にならないで下さい。
 
